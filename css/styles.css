@@ -1,13 +1,19 @@
-
 body{
-  background-color: #ffa41b;
-  hr {
+  background-color: #EAF6F6;
+}
 
-     border-style: none;
-     border-top-style: dotted solid ;
-     border-color: grey;
-     border-width:5px;
-     width:100%;
-   }
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: :80%;
+  width: 30%;
+}
 
+h3{
+color:red;
+}
+
+h1{
+  color:blue; 
 }
